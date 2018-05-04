@@ -9,15 +9,13 @@ The article is processed by pseudo original, in order to optimize SEO.
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. pip install jieba
+2. pip install synonyms
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 暂无
+
 
 #### 参与贡献
 
