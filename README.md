@@ -3,25 +3,10 @@
 #### 项目介绍
 The article is processed by pseudo original, in order to optimize SEO.
 
-#### 软件架构
-None
-
-
 #### 安装教程
 
 1. pip install jieba
 2. pip install synonyms
 
 #### 使用说明
-
-1. None
-
-
-#### 参与贡献
-
-1. None
-
-
-#### 码云特技
-
 1. None
